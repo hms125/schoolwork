@@ -8,3 +8,5 @@ code used: https://docs.google.com/document/d/1BOY2ek7AYa7ZUNlaSwmntEUZ2soj7xfkW
 week 4 homework color lamp: https://www.youtube.com/watch?v=hOOWEBDdJC0
 
 week 5 homework Light theremin: https://youtu.be/T3f-Jf_nfnE
+
+week 5 homework digital hourglass: https://youtu.be/qPfJED-bp-M
