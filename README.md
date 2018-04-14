@@ -1,5 +1,7 @@
 # homework
 
+crazy machine:https://drive.google.com/file/d/186hiT0NF0FX0haOidQxiyttqLO-sabCH/view?usp=sharing
+
 week 3 homework https://www.youtube.com/watch?v=y1HnL-Q4bNo 
 
 week 4 homework love test https://youtu.be/0VzsFvFlF7U 
