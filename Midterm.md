@@ -1,7 +1,7 @@
 # Midterm 
 # Memory game
 
-I wanted to try and make a game of some kind with the Arduino system and a meory game is what came to mind at the time.
+I wanted to try and make a game of some kind with the Arduino system and a memory game is what came to mind at the time.
 The game works useing code to pic a random led light and pressing the button that responds to it.
 The game uses buttons as input and led's as output. I wanted the device to be small and easy to transport.
 
