@@ -10,7 +10,8 @@ I wanted to create something interesting and creating a computer mouse with the 
 The size of the project is the same size as a tv remote. The Joystick and buttons are the input and what happens on screen is the output.
 I chose decided to use these components because they made the most sense to use.
 
- # Parts: Joystick, 2 resistors, wires, arduino micro, 2 buttons.
+ # Parts: 
+ Joystick, 2 resistors, wires, arduino micro, 2 buttons.
  
  # how the code works
 Controls a PC mouse from a joystick on an Arduino Micro. The mouse movement is always relative.
